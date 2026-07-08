@@ -1,10 +1,8 @@
 # Sistema de Gestión
 
-## Integrantes
+## Estudiante
 
 - Lenin Xavier Macías Cedeño
-- Carlos Ariel Cedeño Bernal
-- Marcelo Andrés Guamán Quijije
 
 ## Descripción
 
