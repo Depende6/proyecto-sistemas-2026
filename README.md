@@ -3,6 +3,7 @@
 ## Estudiante
 
 - Lenin Xavier Macías Cedeño
+- Cedeño Velásquez Glenda Doraliza
 
 ## Descripción
 
