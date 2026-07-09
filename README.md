@@ -4,6 +4,7 @@
 
 - Lenin Xavier Macías Cedeño
 - Cedeño Velásquez Glenda Doraliza
+- Camacho Macias Sofia Del Valle
 
 ## Descripción
 
